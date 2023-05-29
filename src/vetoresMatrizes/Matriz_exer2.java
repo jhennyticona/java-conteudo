@@ -26,7 +26,6 @@ public class Matriz_exer2 {
 				vetor[i] = media;
 			}
 			soma = 0;
-			media = 0;
 		}
 		System.out.println("Vetor:");
 		for (i = 0; i < 10; i++) {
